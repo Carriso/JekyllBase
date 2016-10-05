@@ -2,14 +2,20 @@
 layout: page
 title: About
 permalink: /about/
+ref: about
+lang: en
 ---
 
-Some information about you!
+This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
-### More Information
+You can find this multilanguage theme at :
+{% include icon-github.html username="sylvaindurand" %} /
+[multilingual-jekyll](https://github.com/sylvaindurand/multilingual-jekyll)
 
-A place to include any other types of information that you'd like to include about yourself.
+You can find the original source code for the Jekyll new theme at:
+{% include icon-github.html username="jglovier" %} /
+[jekyll-new](https://github.com/jglovier/jekyll-new)
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+You can find the source code for Jekyll at
+{% include icon-github.html username="jekyll" %} /
+[jekyll](https://github.com/jekyll/jekyll)
